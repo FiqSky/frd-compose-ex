@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.VoneApp" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Atur warna latar belakang aplikasi sesuai dengan tema terang -->
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+
+    <style name="Theme.VoneApp.Dark" parent="android:Theme.Material">
+        <!-- Atur warna latar belakang aplikasi sesuai dengan tema gelap -->
+        <item name="android:windowBackground">@color/background_dark</item>
+    </style>
+</resources>

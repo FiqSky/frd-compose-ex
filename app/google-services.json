@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "431116258154",
+    "firebase_url": "https://vone-c793b-default-rtdb.firebaseio.com",
+    "project_id": "vone-c793b",
+    "storage_bucket": "vone-c793b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431116258154:android:a20dcd36882bb80e06b313",
+        "android_client_info": {
+          "package_name": "com.fiqsky.voneapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe5msHHmceHfp9uUY7mGshLDPyWMewo_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
